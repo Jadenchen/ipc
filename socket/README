@@ -1,0 +1,7 @@
+how to test?
+
+1. start server: ./server (make sure port is right)
+2. start client: ./client ifconfig
+3. start ./web
+4. open a chrome then enter http://ifconfig:8088, you
+will see a hello message
